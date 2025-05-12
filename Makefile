@@ -2,7 +2,7 @@
 
 CC = gcc
 CFLAGS = -Wall -g
-TARGET = myshell
+TARGET = shell
 SRCS = shell.c
 
 all: $(TARGET)
